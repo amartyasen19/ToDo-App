@@ -10,7 +10,8 @@ The application also features user authentication using **Passport.js**, respons
    npm i
 
 ## For running this we can use this command
- npm run dev or node index.js
+ npm run dev or
+ node index.js
 
 ## Features
 - **User Authentication**: 
